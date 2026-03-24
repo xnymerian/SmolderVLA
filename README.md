@@ -17,8 +17,8 @@ The case study has two tasks:
 
 ## Final Deliverables
 
-- `task1_report.docx` - Task 1 report
-- `outputs/task1_Visualization.mp4` - Task 1 visualization
+- `deliverables/task1_report.docx` - Task 1 report
+- `deliverables/task1_Visualization.mp4` - Task 1 visualization
 - `deliverables/task2_SidebySide.mp4` - Task 2 final side-by-side video
 
 ## Project Structure
